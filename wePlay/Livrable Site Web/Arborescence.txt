@@ -1,0 +1,31 @@
+Page Accueil: C'est la première page du site, un visiteur peut y accéder et voir le catalogue des jeux comme il peut s'inscrire si c'est un nouveau client ou s'authentifier s'il est déjà inscrit.
+
+PageInscription:C'est la page à partir de laquelle, un visiteur peut s'inscrire si il est un nouveau client ou s'authentifier si il est administrateur ou membre connu de la base.
+
+PagePresentation:C'est une page de présentation qui devrait mettre en avant les points forts et les avantages liés à la consultation du site.
+
+PageContact:C'est une page qui permet d'interagir facilement avec les visiteurs du site.
+
+PageAccueilAdmin:C'est la première page qui s'affiche après l'authentification de l'administrateur, un administrateur peut y accéder et gérer les parties de jeux et créer des compte administrateur.
+
+PageAccueilMembre:C'est la première page qui s'affiche après l'authentification d'un membre, un membre peut y accéder et voir la liste complète des jeux.
+
+PageAjouterJeux:C'est la page qui permet à l'admin d'ajouter de nouveaux jeux au système.
+
+PageSupprimerJeux:C'est la page qui permet à l'admin de supprimer un jeu du système.
+
+PageModifierJeux:C'est la page qui permet à l'admin de modifier les informations d'un jeu.
+
+PagelisteJeuxSouhaites:C'est l'interface qui autorise à l'administrateur de voir les différents jeux auxquels les membres souhaitent jouer.
+
+PageCreneau: C'est l'interface qui permet à l'administrateur de définir un créneau(date+heure)
+pour une partie de jeu donnée.
+
+PageCreerCompteadmin:C'est la page qui permet à l'admin de créer des comptes administrateurs.
+
+PageFavoris:Cette page affiche la liste de tous les jeux qui intéresse un membre donné.
+
+PageJeux: Cette page permet à un membre de voir la photo, la description et les règles de jeux s'il le souhaite.
+
+ListePartiesAVenir:C'est l'interface qui permet à un membre de voir les prochains créneaux xe jeu pour une partie donnée
+

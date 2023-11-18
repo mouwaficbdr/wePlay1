@@ -1,0 +1,131 @@
+.images{
+    width: 26px;
+    height: 26px;
+}
+.body
+{
+    
+    margin: 2000px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container
+{
+   
+   display: flex;
+   align-items: center;
+}
+
+.img
+{
+    width: 300px;
+    height: 300px;
+    margin-right: 30px;
+    margin-top: 60px;
+}
+
+.back{
+    background-image: url('../images/67036.jpg');
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.back1{
+    background-image: url('../images/67036.jpg');
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.social_icon span
+{
+    font-size: 60px;
+    margin-left: 10px;
+    color: white;
+}
+.social_icon span:hover
+{
+    color:  #FFC312;
+    cursor: pointer;
+} 
+.input-group-prepend span
+{
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border:0 !important;
+}
+.logo
+{
+    width: 70px;
+    height: 70px;
+}
+
+.p
+{
+    margin-top: 60px;
+    margin-left: 30px;
+    
+}
+
+.carousel slide
+{
+    margin: auto;
+    height: 700px;
+    
+}
+.nav
+{
+    background-color: transparent rgba(128, 128, 128, 0);
+    margin: auto;
+    height: 100px;
+
+}
+.carousel-item
+{
+    margin: auto;
+    height: 800px;
+}
+
+.p-3 mb-2 bg-secondary-subtle text-emphasis-secondary
+{
+    background-color: gainsboro;
+}
+
+.foot
+{
+    width: 100%;
+    height: 400px;
+    
+}
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}

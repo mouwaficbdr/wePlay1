@@ -1,0 +1,60 @@
+Page Accueil :
+
+Cette page d'accueil accueille les visiteurs et leur présente le catalogue des jeux disponibles.
+Un visiteur peut s'inscrire comme nouveau membre ou s'authentifier s'il est déjà inscrit.
+Vous pouvez inclure des sections de mise en avant pour les jeux populaires et des informations sur l'association de jeux.
+Page Inscription :
+
+Les visiteurs peuvent s'inscrire en tant que nouveaux membres à partir de cette page.
+Les administrateurs ou membres existants peuvent également s'authentifier à partir de cette page.
+Page Présentation :
+
+Une page de présentation qui met en avant les points forts du site et les avantages liés à la consultation.
+Vous pouvez inclure des informations sur l'histoire de l'association, sa mission, etc.
+Page Contact :
+
+Une page qui permet aux visiteurs d'interagir avec le site ou l'association.
+Vous pouvez inclure un formulaire de contact pour les questions et commentaires.
+Page Accueil Admin :
+
+La première page qui s'affiche après l'authentification d'un administrateur.
+Permet à l'administrateur de gérer les parties de jeux et de créer des comptes administrateurs.
+Page Accueil Membre :
+
+La première page qui s'affiche après l'authentification d'un membre.
+Permet aux membres de voir la liste complète des jeux disponibles.
+Page Ajouter Jeux :
+
+Permet à l'administrateur d'ajouter de nouveaux jeux au système.
+Inclut un formulaire pour saisir les détails du jeu (nom, description, catégorie, règles, photos, etc.).
+Page Supprimer Jeux :
+
+Permet à l'administrateur de supprimer un jeu du système.
+Peut inclure une liste des jeux existants avec des options de suppression.
+Page Modifier Jeux :
+
+Permet à l'administrateur de modifier les informations d'un jeu existant.
+Inclut un formulaire pré-rempli avec les détails actuels du jeu.
+Page Liste Jeux Souhaités :
+
+L'administrateur peut voir les jeux auxquels les membres souhaitent jouer.
+Peut inclure une liste de jeux et les membres qui les ont demandés.
+Page Créneau :
+
+Permet à l'administrateur de définir un créneau (date et heure) pour une partie de jeu donnée.
+Inclut un formulaire pour sélectionner le jeu et définir les détails du créneau.
+Page Créer Compte Admin :
+
+Permet à l'administrateur de créer des comptes administrateurs supplémentaires.
+Inclut un formulaire de création de compte administrateur.
+Page Favoris :
+
+Cette page affiche la liste des jeux qui intéressent un membre donné.
+Peut inclure des options pour ajouter ou supprimer des jeux de la liste de favoris.
+Page Jeux :
+
+Permet à un membre de voir les détails d'un jeu, y compris la photo, la description et les règles du jeu (en PDF).
+Liste Parties à Venir :
+
+Les membres peuvent voir les prochains créneaux pour une partie donnée.
+Peut inclure une liste de parties à venir avec des options d'inscription.
