@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $_SESSION['role'] = $user['role'];
 
       // Redirection vers une page après la connexion réussie (par exemple, la page d'accueil)
-      header("Location: ../HTML/index.html");
+      header("Location: ../index.html");
       exit();
     } else {
       // Redirection avec un message d'erreur si les informations de connexion sont incorrectes
